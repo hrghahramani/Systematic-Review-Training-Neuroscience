@@ -81,3 +81,9 @@ Evaluated methodological limitations and assessed the overall risk of bias for s
 This repository documents hands-on training and learning activities in systematic review methodology and evidence synthesis.
 
 It is intended as an academic and research-methodology portfolio and does not represent an independently conducted or published systematic review or meta-analysis.
+
+## Mentor & Technical Guidance
+
+**Bahar Moghimi**
+
+Provided mentorship and practical support in systematic review methodology, literature search, screening, data extraction, critical appraisal, and risk-of-bias assessment.
